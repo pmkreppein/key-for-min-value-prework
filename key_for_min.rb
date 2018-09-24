@@ -5,5 +5,5 @@ def key_for_min_value(name_hash)
   floor_key = nil
   floor_value = nil
   
-  
+  name_hash
 end
