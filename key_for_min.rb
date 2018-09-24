@@ -9,4 +9,6 @@ def key_for_min_value(name_hash)
     if !floor_key || value < floor_value
       floor_key = key
       floor_value = value
+    end
+    
 end
