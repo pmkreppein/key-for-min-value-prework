@@ -10,5 +10,6 @@ def key_for_min_value(name_hash)
       floor_key = key
       floor_value = value
     end
-    
+  end
+  floor_key
 end
